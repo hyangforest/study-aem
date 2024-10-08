@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# AEM 이용한 사이트 제작 스터디
+- 구글 드라이브 이용
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--study-aem--hyangforest.aem.page/
+- Live: https://main--study-aem--hyangforest.aem.live/
 
 ## Installation
 
